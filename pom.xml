@@ -20,5 +20,12 @@
         </plugins>
     </build>
 
+    <dependencies>
+        <!--这个是cache调用的包-->
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>14.0</version>
+        </dependency></dependencies>
 
 </project>
